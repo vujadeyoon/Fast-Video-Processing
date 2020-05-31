@@ -27,11 +27,13 @@
 
 ## 3. Development environment <a name="envs"></a>
 - Operating System (OS): Ubuntu MATE 18.04.3 LTS (Bionic)
+- CPU: Intel Core i7-7700 CPU @ 3.60GHz x 8
+- Main memory: 32GB
+- GPU: Titan XP, 1ea
 - Python version: Python 3.7.6
 - Python main package:
     - opencv-python: 4.1.2.30 
     - ffmpeg-python: 0.2.0 
-
 
 
 ## 4. Preparation to run a demo code <a name="preparation"></a>
