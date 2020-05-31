@@ -67,7 +67,7 @@ C. Install the required main packages.<br />
 - The measured time is the time including all the prcoessing time (e.g. reading, saving or writing).
 - I use a HD1080 video (i.e. ./test_input/test_1.mp4) as a test video source.
 - Please note that I cannot provide a test video, but you can test any video you want.
-- Please note that you should check the arguemnts in the main.py. Some examples are as follows.
+- Please note that you should check the arguemnts in the main python script. Some examples are as follows.
   - name_video_src: The name of test video source.
   - num_batch: The numebr of batch size for batch-processing in reading a video.
   - num_proc:  The numebr of processes for multi-processing in wrting frames.
